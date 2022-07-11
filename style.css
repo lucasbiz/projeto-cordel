@@ -30,7 +30,7 @@ header > h1 {
     padding-top: 50px;
 }
 
-nav > h2 {
+header > h2 {
     text-align: center;
     margin: 0px;
     color: white;
@@ -45,8 +45,8 @@ main{
 }
 
 
-div{
-    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.26);
+section{
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.315);
 }
 
 .fundobranco{
